@@ -1,0 +1,327 @@
+# Privacy Policy for HatcheryMaster
+
+**Effective Date:** December 2024  
+**Last Updated:** December 2024
+
+---
+
+## 📋 **Introduction**
+
+HatcheryMaster ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
+
+---
+
+## 🔒 **Information We Collect**
+
+### **Personal Information**
+We may collect the following types of personal information:
+
+#### **Information You Provide Directly:**
+- **Owner Information**: Names, email addresses, phone numbers, and other contact details you enter for egg owners
+- **Hatchery Data**: Egg types, batch information, incubation periods, and hatching results
+- **App Usage Data**: Your interactions with the app, features used, and preferences
+
+#### **Information Collected Automatically:**
+- **Device Information**: Device model, operating system version, unique device identifiers
+- **App Performance Data**: Crash reports, performance metrics, and error logs
+- **Usage Analytics**: App features used, time spent in app, and user behavior patterns
+
+### **Data We Do NOT Collect:**
+- ❌ **Location Data**: We do not collect or track your physical location
+- ❌ **Biometric Data**: We do not collect fingerprints, face recognition, or other biometric data
+- ❌ **Financial Information**: We do not collect credit card numbers or payment information
+- ❌ **Third-Party Account Data**: We do not access your social media or other app accounts
+
+---
+
+## 🎯 **How We Use Your Information**
+
+### **Primary Uses:**
+- **App Functionality**: To provide hatchery management features and services
+- **Data Storage**: To save your hatchery data locally on your device
+- **Notifications**: To send you reminders about candling dates, hatching dates, and other important events
+- **Reports Generation**: To create performance reports and analytics for your hatchery
+
+### **Secondary Uses:**
+- **App Improvement**: To analyze app usage and improve features
+- **Technical Support**: To help diagnose and resolve technical issues
+- **Legal Compliance**: To comply with applicable laws and regulations
+
+### **Advertising Purposes:**
+- **AdMob Integration**: We use Google AdMob to display advertisements
+- **Ad Personalization**: Ads may be personalized based on your app usage patterns
+- **Revenue Generation**: Ad revenue helps us maintain and improve the app
+
+---
+
+## 📱 **Data Storage and Security**
+
+### **Local Storage:**
+- **Primary Storage**: All your hatchery data is stored locally on your device using SQLite database
+- **No Cloud Sync**: Your data is not automatically synced to external servers
+- **Device Backup**: Your data may be included in your device's backup if you have enabled backup features
+
+### **Security Measures:**
+- **Encryption**: Database files are encrypted using Android's built-in security features
+- **Access Control**: Only the app can access your data
+- **Secure Storage**: Data is stored in the app's private directory, not accessible by other apps
+
+### **Data Retention:**
+- **Indefinite Storage**: Your data remains on your device until you delete the app or manually delete data
+- **No Automatic Deletion**: We do not automatically delete your data
+- **User Control**: You can delete individual records or all data at any time
+
+---
+
+## 🔐 **Permissions We Request**
+
+### **Storage Permissions:**
+- **WRITE_EXTERNAL_STORAGE**: To save PDF reports to your Downloads folder
+- **READ_EXTERNAL_STORAGE**: To access saved PDF reports
+- **Purpose**: These permissions are only used for PDF export functionality
+
+### **Notification Permissions:**
+- **POST_NOTIFICATIONS**: To send you reminders about important hatchery dates
+- **Purpose**: Essential for the app's notification system
+
+### **Internet Permission:**
+- **INTERNET**: To load advertisements and send analytics data
+- **Purpose**: Required for AdMob integration and app analytics
+
+### **Permission Management:**
+- **Optional Permissions**: You can deny storage permissions, but PDF export will not work
+- **Required Permissions**: Notification permission is required for the app to function properly
+- **Permission Withdrawal**: You can revoke permissions at any time through your device settings
+
+---
+
+## 📊 **Third-Party Services**
+
+### **Google AdMob:**
+- **Purpose**: Display advertisements in the app
+- **Data Shared**: App usage data, device information, and advertising identifiers
+- **Google's Privacy Policy**: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+- **Opt-out**: You can opt out of personalized ads in your device settings
+
+### **Google Analytics (if enabled):**
+- **Purpose**: Analyze app usage and performance
+- **Data Collected**: App usage statistics, crash reports, and performance metrics
+- **Google's Privacy Policy**: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+### **Android System Services:**
+- **Notification Service**: For sending local notifications
+- **File System**: For saving and accessing PDF files
+- **Database Service**: For local data storage
+
+---
+
+## 🚫 **Data Sharing and Disclosure**
+
+### **We Do NOT Share Your Personal Data With:**
+- ❌ **Third-Party Companies**: Except for advertising and analytics services
+- ❌ **Government Agencies**: Unless required by law
+- ❌ **Marketing Companies**: For promotional purposes
+- ❌ **Data Brokers**: For commercial purposes
+
+### **Limited Sharing Scenarios:**
+- **Legal Requirements**: If required by law or legal process
+- **Service Providers**: With trusted service providers who assist in app operation
+- **Business Transfers**: In case of merger, acquisition, or sale of assets
+
+### **Anonymous Data:**
+- **Aggregated Statistics**: We may share anonymous, aggregated usage statistics
+- **No Personal Identification**: Anonymous data cannot be used to identify you
+- **Research Purposes**: For improving app functionality and user experience
+
+---
+
+## 👤 **Your Rights and Choices**
+
+### **Data Access:**
+- **View Your Data**: You can view all your data within the app
+- **Export Data**: You can export your data as PDF reports
+- **Data Portability**: You can manually copy your data from the app
+
+### **Data Control:**
+- **Edit Data**: You can modify or update your information at any time
+- **Delete Data**: You can delete individual records or all data
+- **App Deletion**: Uninstalling the app removes all data from your device
+
+### **Privacy Settings:**
+- **Notification Preferences**: You can control notification settings
+- **Ad Preferences**: You can opt out of personalized ads
+- **Analytics Opt-out**: You can disable analytics data collection
+
+### **Contact Us:**
+- **Privacy Questions**: Contact us with any privacy-related questions
+- **Data Requests**: Request information about your data
+- **Complaints**: Report privacy concerns or violations
+
+---
+
+## 🔄 **Data Transfer and International Users**
+
+### **Data Location:**
+- **Local Storage**: Your data is stored on your device
+- **No International Transfer**: Data is not transferred across international borders
+- **Local Processing**: All data processing occurs on your device
+
+### **International Compliance:**
+- **GDPR Compliance**: We comply with EU General Data Protection Regulation
+- **CCPA Compliance**: We comply with California Consumer Privacy Act
+- **Local Laws**: We comply with applicable local privacy laws
+
+---
+
+## 🛡️ **Children's Privacy**
+
+### **Age Restrictions:**
+- **Not for Children**: Our app is not intended for children under 13
+- **No Child Data**: We do not knowingly collect data from children under 13
+- **Parental Control**: Parents should monitor their children's app usage
+
+### **If Child Data is Discovered:**
+- **Immediate Deletion**: We will delete any child data immediately upon discovery
+- **Contact Parents**: We will notify parents if we discover child data
+- **Prevent Future Collection**: We will take steps to prevent future collection
+
+---
+
+## 🔄 **Changes to This Privacy Policy**
+
+### **Policy Updates:**
+- **Notification**: We will notify you of significant changes
+- **App Update**: Changes will be included in app updates
+- **Effective Date**: New policies will have a new effective date
+
+### **Your Acceptance:**
+- **Continued Use**: Continued use of the app constitutes acceptance
+- **Opt-out**: You can stop using the app if you disagree with changes
+- **Contact Us**: Reach out with questions about changes
+
+---
+
+## 📞 **Contact Information**
+
+### **Privacy Officer:**
+- **Email**: privacy@hatcherymaster.com
+- **Subject Line**: "Privacy Policy Inquiry"
+- **Response Time**: Within 48 hours
+
+### **General Support:**
+- **Email**: support@hatcherymaster.com
+- **App Feedback**: Use the in-app feedback system
+- **Website**: [www.hatcherymaster.com](https://www.hatcherymaster.com)
+
+### **Mailing Address:**
+```
+HatcheryMaster Privacy Team
+[Your Company Address]
+[City, State, ZIP Code]
+[Country]
+```
+
+---
+
+## ⚖️ **Legal Information**
+
+### **Governing Law:**
+- **Jurisdiction**: This policy is governed by [Your Jurisdiction] law
+- **Dispute Resolution**: Any disputes will be resolved in [Your Jurisdiction] courts
+- **Severability**: If any provision is invalid, the rest remains in effect
+
+### **Compliance:**
+- **Industry Standards**: We follow industry best practices for data protection
+- **Regular Audits**: We regularly review and update our privacy practices
+- **Staff Training**: Our team is trained on privacy protection
+
+---
+
+## 📋 **Summary of Key Points**
+
+### **What We Collect:**
+- ✅ Hatchery data you enter (eggs, batches, owners)
+- ✅ Device information for app functionality
+- ✅ Usage analytics for app improvement
+- ✅ Advertising data for AdMob integration
+
+### **What We Don't Collect:**
+- ❌ Location data
+- ❌ Financial information
+- ❌ Biometric data
+- ❌ Third-party account data
+
+### **How We Protect Your Data:**
+- 🔒 Local storage on your device
+- 🔒 Encrypted database
+- 🔒 No cloud sync without your permission
+- 🔒 Limited third-party sharing
+
+### **Your Rights:**
+- 👤 Access and control your data
+- 👤 Delete data at any time
+- 👤 Opt out of personalized ads
+- 👤 Contact us with privacy questions
+
+---
+
+## 🎯 **App-Specific Privacy Details**
+
+### **Hatchery Data:**
+- **Egg Types**: Names and incubation periods you enter
+- **Owners**: Contact information you provide
+- **Batches**: Start dates, egg counts, and results
+- **Reports**: Generated from your data for your use
+
+### **Notification Data:**
+- **Reminder Dates**: Calculated from your batch start dates
+- **Local Notifications**: Stored on your device only
+- **No Remote Notifications**: We don't send push notifications from servers
+
+### **PDF Export:**
+- **Local Generation**: PDFs are created on your device
+- **Downloads Folder**: Saved to your device's Downloads folder
+- **No Cloud Upload**: PDFs are not automatically uploaded anywhere
+
+### **AdMob Integration:**
+- **Ad Display**: Shows relevant advertisements
+- **Ad Interaction**: Tracks ad clicks and views
+- **Revenue Sharing**: We receive revenue from ad interactions
+- **User Privacy**: AdMob follows Google's privacy standards
+
+---
+
+## 🔍 **Frequently Asked Questions**
+
+### **Q: Is my hatchery data stored in the cloud?**
+A: No, all your data is stored locally on your device. We do not automatically sync your data to external servers.
+
+### **Q: Can I export my data?**
+A: Yes, you can export your data as PDF reports using the app's export feature.
+
+### **Q: Do you sell my data to third parties?**
+A: No, we do not sell your personal data to third parties. We only share anonymous, aggregated data for app improvement.
+
+### **Q: How long is my data kept?**
+A: Your data is kept on your device until you delete it or uninstall the app. We do not automatically delete your data.
+
+### **Q: Can I opt out of ads?**
+A: You can opt out of personalized ads in your device settings, but some ads may still be displayed.
+
+### **Q: What happens if I uninstall the app?**
+A: All your data will be deleted from your device. Make sure to export any important data before uninstalling.
+
+---
+
+## 📝 **Acknowledgement**
+
+By using HatcheryMaster, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your information as described herein.
+
+**Last Updated:** December 2024  
+**Version:** 1.0
+
+---
+
+*This Privacy Policy is effective as of the date listed above and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted in the app.*
+
+**Thank you for trusting HatcheryMaster with your hatchery data! 🐣**
